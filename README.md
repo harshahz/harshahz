@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sree 👋
 
-<!--
-**harshahz/harshahz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Azure Architect | Forward Deployed Engineer | FinOps | AI
 
-Here are some ideas to get you started:
+🔭 Currently building:
+  - Azure AIOps Intelligence Platform (LangChain + GPT-4o + PostgreSQL)
+  - Managing $253K/month Azure spend across 13 subscriptions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Key projects:
+  - [FinOps Intelligence Dashboard](link) — Flask, LangChain, Azure OpenAI
+  - [Azure Infra Scripts](link) — Cost analysis, network audit, governance
+
+📜 Certifications: AZ-305 · AZ-104 · AI-102
